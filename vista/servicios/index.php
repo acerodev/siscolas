@@ -8,7 +8,7 @@ permitirSolo(["Super Admin", "Admin"]);
 include "../../controlador/servicios/eliminar_servicio.php";
 include "../../controlador/servicios/registrar_servicio.php";
 include "../../controlador/servicios/modificar_servicio.php";
-//VERIFICAR YA QUE DEMORA
+//VERIFICAR YA QUE DEMORA mucho en cargar
 include "../../controlador/atencion/notificar_socket.php";
 include "../header.php";
 ?>
